@@ -1,6 +1,6 @@
 This a learning repo which touches on the basics of Git commands
 
-Topics:
+Topics:  
 Creating a git repo ( git init )  
 Adding to the repo ( with git add )  
 Creating commits ( with git commit )  
