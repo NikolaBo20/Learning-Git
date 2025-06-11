@@ -10,7 +10,7 @@ Merging branches ( with git merge branch_name *branches must be merge with main 
 Checking difference in commits (with git diff)  
 Stashing changes ( with git stash )  
 Rebasing ( with git rebase )  
-Pushing to GitHub ( using the GitHub documentation to set and using the git push )  
+Pushing to GitHub ( using the GitHub documentation to set up and using the git push )  
 Feching from GitHub ( with git fetch )  
 Pulling from GitHub ( with git pull )  
 Cloning ( with git clone url )  
